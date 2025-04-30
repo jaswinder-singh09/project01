@@ -1,10 +1,16 @@
-h1, h2 {
-    color : blue;
+h1 {
+    color : #0118d8;
 }
-p, ul, ol, h3 , div{
-    background-color: #e0e0e3;
-    width: 65%; 
-    /* padding : 1px; */
+h2 {
+    color : #1B56FD
+}
+
+h3 , div{
+    background-color: #f8f1f1;
+    width: 65%;
+    padding : 2px;
+    border-radius:1% ;
+    border: 1px solid #ece4e4;
 }
 img {
     border: 2px solid rgb(179, 209, 234);
@@ -13,3 +19,11 @@ footer {
     color : grey;
     font-size: 10px;
 }
+
+/* .special-gothic-expanded-one-regular {
+    font-family: "Special Gothic Expanded One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  } */
+  
+
